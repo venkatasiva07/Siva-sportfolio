@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Siva-sportfolio/static/css/main.5e1af6b4.css",
+    "main.js": "/Siva-sportfolio/static/js/main.9004b2cf.js",
+    "static/media/image1.png": "/Siva-sportfolio/static/media/image1.7d858804226e642f9199.png",
+    "static/media/portfolio-6.png": "/Siva-sportfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/Siva-sportfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/bus.jpg": "/Siva-sportfolio/static/media/bus.354bdf7687a5793a186d.jpg",
+    "static/media/portfolio-4.png": "/Siva-sportfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/Siva-sportfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/Siva-sportfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/Siva-sportfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/atm.jpg": "/Siva-sportfolio/static/media/atm.2da4ef681a739350d7cb.jpg",
+    "static/media/link.jpg": "/Siva-sportfolio/static/media/link.9f4e98decaa59952d1bf.jpg",
+    "static/media/devops-263x300.png": "/Siva-sportfolio/static/media/devops-263x300.b57d773051b5d8975fa4.png",
+    "static/media/ui-design.png": "/Siva-sportfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/Siva-sportfolio/index.html",
+    "main.5e1af6b4.css.map": "/Siva-sportfolio/static/css/main.5e1af6b4.css.map",
+    "main.9004b2cf.js.map": "/Siva-sportfolio/static/js/main.9004b2cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e1af6b4.css",
+    "static/js/main.9004b2cf.js"
+  ]
+}
