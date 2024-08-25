@@ -14,21 +14,25 @@ const Projects = () => {
           <img src={Link} alt='LinkProject' className='projectsBarImg' />
           <div className='projectsBarText'>
             <h2>Link Generator and File Sharing</h2>
-            <p>Which provides link for files and also link can be share through Email. Used Node Js to develop the project</p>
+            <p>Developed a backend server to generate the links for the files.<br />
+            Learned and applied the MERN stack (MongoDB, Express.js, React.js, Node.js) for full-stack web development. <br />
+            Experienced the usage of rest api's like Postman,Insomnia.</p>
           </div>
         </div>
         <div className='projectsBar'>
           <img src={Bus} alt='BusRental' className='projectsBarImg' />
           <div className='projectsBarText'>
             <h2>Bus Rental System</h2>
-            <p>Which provides the services like to rent a bus for a trip. Used Html, Css, and Java Script</p>
+            <p>Developed a application used to rent a bus . <br />
+            Experienced some image slidding effects. <br />
+            Applied Web technologies like Html,  Css, and  JavaScript.</p>
           </div>
         </div>
         <div className='projectsBar'>
           <img src={Atm} alt='Atm Clone' className='projectsBarImg' />
           <div className='projectsBarText'>
             <h2>Clone of ATM</h2>
-            <p>These project showcase the functionalities of ATM. Used PythonGUI</p>
+            <p>These project showcase the functionalities of ATM. Used Python GUI</p>
           </div>
         </div>
       </div>

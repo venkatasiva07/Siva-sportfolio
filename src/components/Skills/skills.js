@@ -15,21 +15,21 @@ const Skills = () => {
           <img src={Webesign} alt='WebDesign' className='skillBarImg' />
           <div className='skillBarText'>
             <h2>Web Design</h2>
-            <p> Interest in creating visually appealing and user friendly Website</p>
+            <p>Passionate about crafting visually appealing and user-friendly websites that blend aesthetics with functionality.<br />Languages  And  Fameworks:  HTML,  CSS,  JavaScript,  React JS</p>
+          </div>
+        </div>
+        <div className='skillBar'>
+          <img src={UiDesign} alt='UIDesign' className='skillBarImg' />
+          <div className='skillBarText'>
+            <h2>MERN STACK</h2>
+            <p>Seeking to leverage my skills in MongoDB, Express, React, and Node.js to create innovative web solutions as a MERN stack developer.</p>
           </div>
         </div>
         <div className='skillBar'>
           <img src={Devops} alt='Devops' className='skillBarImg' />
           <div className='skillBarText'>
             <h2>Devops</h2>
-            <p>I know how to use some devops tools like Git, Docker, Jenkins</p>
-          </div>
-        </div>
-        <div className='skillBar'>
-          <img src={UiDesign} alt='UIDesign' className='skillBarImg' />
-          <div className='skillBarText'>
-            <h2>UI design</h2>
-            <p>hdbcdbcdhbch</p>
+            <p> Passionate about streamlining software delivery through DevOps practices, integrating development and operations to enhance efficiency and reliability. <br /> Tools:  Git,  Docker,  Jenkins,  Puppet.</p>
           </div>
         </div>
       </div>

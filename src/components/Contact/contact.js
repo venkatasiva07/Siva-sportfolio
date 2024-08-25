@@ -34,9 +34,12 @@ const Contact = () => {
                     <textarea name='message' className='msg' rows='5' placeholder='Your message'></textarea>
                     <button type='sumbit' value='Send' className='submitBtn'>Submit</button>
                     <div className='links'>
-                        <img src={Linkedin} alt='Linkedin' className='link' />
-                        <img src={Github} alt='Github' className='link' />
-                        <img src={Email} alt='Email' className='link' />
+                        <a href='https://www.linkedin.com/in/siva-bhavanam-a18891227/'>
+                        <img src={Linkedin} alt='Linkedin' className='link' /> </a>
+                        <a href='https://github.com/venkatasiva07'>
+                        <img src={Github} alt='Github' className='link' /></a>
+                        <a href='mailto:venkatasivareddybhavanam@gmail.com'>
+                        <img src={Email} alt='Email' className='link' /></a>
                     </div>
                 </form>
             </div>
